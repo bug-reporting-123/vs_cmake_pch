@@ -1,0 +1,34 @@
+#pragma once
+
+// Standard C++ libraries
+#include <algorithm>
+#include <any>
+#include <array>
+#include <cassert>
+#include <chrono>
+#include <concepts>
+#include <cstddef>
+#include <cstdint>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+#include <cwchar>
+#include <exception>
+#include <fstream>
+#include <functional>
+#include <iomanip>
+#include <iostream>
+#include <memory>
+#include <optional>
+#include <queue>
+#include <random>
+#include <regex>
+#include <sstream>
+#include <stdexcept>
+#include <string>
+#include <string_view>
+#include <type_traits>
+#include <unordered_map>
+#include <utility>
+#include <variant>
+#include <vector>
